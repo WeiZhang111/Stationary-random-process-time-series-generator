@@ -8,4 +8,6 @@ Reference: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/articl
 
 FFT can achieve the same result
 
+The generated sample functions can be used in Monte-Carlo simulations
+
 Please help me to improve the script if you find anything inappropriate. Thanks.
